@@ -1,2 +1,3 @@
-# Frontend
-Frontend Development (React, JavaScript). Includes assignments, personal experiments, and code solutions
+# My Personal Resume Website
+This repository contains my personal resume fpr level 1.1.
+https://drvirus15.github.io/level-1/
